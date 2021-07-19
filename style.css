@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.carousel-item {
+  background: rgb(252, 234, 232);
+  border-radius: 30px;
+}
+.watch {
+  background-color: orange;
+}
+.shoes {
+  background-color: orchid;
+}
+.bags {
+  background-color: blue;
+}
+.subscribe-section {
+  background-color: rgb(252, 234, 232);
+}
